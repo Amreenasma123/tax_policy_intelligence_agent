@@ -1,0 +1,44 @@
+{
+  "suite": "TaxGuard deterministic safety regression",
+  "passed": 7,
+  "total": 7,
+  "pass_rate_pct": 100.0,
+  "cases": [
+    {
+      "test": "supported claim has lexical evidence",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "unsupported claim fails grounding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "fabricated citation rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "prompt injection signal detected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "email PII redacted",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "active policy eligible",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "superseded policy excluded",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "scope_note": "Synthetic local tests only; not proof of production security or legal correctness."
+}

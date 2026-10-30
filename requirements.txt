@@ -1,0 +1,10 @@
+streamlit>=1.38,<2
+scikit-learn>=1.4,<2
+numpy>=1.26,<3
+pydantic>=2.7,<3
+PyYAML>=6,<7
+pytest>=8,<10
+langgraph>=0.2,<2
+
+# Optional Redis-backed conversation history
+redis>=5,<7

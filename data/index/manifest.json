@@ -1,0 +1,24 @@
+{
+  "files": {
+    "data\\synthetic_policies\\AU\\au-asset-reg.md": "d328c4b06516da121054805223d4b0b192b38ac324eb9776478df35c6767a95b",
+    "data\\synthetic_policies\\AU\\au-bas-file.md": "b82be64bfe2a607402a5ab9be9d5ac380847d7523bd2463f173c3d57a3a482ff",
+    "data\\synthetic_policies\\AU\\au-gst-evid.md": "f42e14f5b717ddb3901ce75922587ed6c9694d4b91dfe6162d9da99672923d1d",
+    "data\\synthetic_policies\\AU\\au-work-exp.md": "de00b4b875762dda34321355fc3121b0a0fa1d253c42d09fdd382316a04da38b",
+    "data\\synthetic_policies\\CA\\ca-cap-cost.md": "834b80ba2d9ffbafdf2428e118cad5ae41830f62b20c6bf9e27b25a264478ac9",
+    "data\\synthetic_policies\\CA\\ca-file-rev.md": "2f11aca1d27408b5d06c27b4198afbcf09032829e0975cf9e3de48d0857c1532",
+    "data\\synthetic_policies\\CA\\ca-gsthst.md": "9653cea99085957cfdcc96185a3306a91ec9e9d1a6b5e5bf231e162662d27546",
+    "data\\synthetic_policies\\CA\\ca-travel.md": "399fccae6a142b811f37d39fcbe69ba72a8cbccf7d7e0f9f820bf85eacc85e38",
+    "data\\synthetic_policies\\IN\\in-asset-dep.md": "d69523ad6b2b16fc98a87b291b670ed2367319dd471c4501a4ab4e8ed88a0b19",
+    "data\\synthetic_policies\\IN\\in-biz-exp.md": "b891ef5894f512f116894db13a072f180151cb93950b7d61bdc8414c27e361d4",
+    "data\\synthetic_policies\\IN\\in-gst-itc.md": "65d5f06fc815805460aa4a853676757ddc9f467b8625897b164893bb82981387",
+    "data\\synthetic_policies\\IN\\in-return-qa.md": "64c0542e2097ca7d2f2b08d89f7f1e71539c35434b0ab3627387103271b374b1",
+    "data\\synthetic_policies\\UK\\uk-biz-cost.md": "30e9ee59ab16a7d6eb509f1fb78a585cef03a85022b96dd2ea96c2dc94b8be07",
+    "data\\synthetic_policies\\UK\\uk-cap-asset.md": "010f66a85898fae02fb68a7f666c620d8e027acea66b926c301c787be0f51178",
+    "data\\synthetic_policies\\UK\\uk-return-ctrl.md": "c0610bd02e2d34d5483e130c424e159d3b64044741febbcc761d632cbedcd77a",
+    "data\\synthetic_policies\\UK\\uk-vat-rec.md": "56bc3082e89c3a255425127cf6d1190f9e4e1b8232c052d3064867afb2eca10b",
+    "data\\synthetic_policies\\US\\us-asset-rec.md": "0cdcb08e76332f1b2f860f10f00fa79875b7997da1e945ebd6d3d113b92e712b",
+    "data\\synthetic_policies\\US\\us-biz-travel.md": "d6636f249a31c07f8e03776873c239fd6882207f0e812c7b492509fc18da90df",
+    "data\\synthetic_policies\\US\\us-ind-file.md": "6c28f31f7ff68444d4b5fb393b1d23e289ad353c90194484819f3eba2b9711db",
+    "data\\synthetic_policies\\US\\us-pen-rev.md": "63aeed3cccacb3b051af0fdce6f8372d554c03aeb8004abdfcb659a3ba71f137"
+  }
+}

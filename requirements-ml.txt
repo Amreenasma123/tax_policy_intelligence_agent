@@ -1,0 +1,4 @@
+# Optional dense semantic retrieval + persistent local vector database.
+# The first use downloads all-MiniLM-L6-v2 weights; do not enable in restricted/offline environments.
+chromadb>=0.5,<2
+sentence-transformers>=3,<6

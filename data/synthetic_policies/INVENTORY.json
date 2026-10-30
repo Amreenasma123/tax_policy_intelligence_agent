@@ -1,0 +1,86 @@
+{
+  "synthetic": true,
+  "document_count": 20,
+  "documents": [
+    {
+      "path": "data/synthetic_policies/AU/au-asset-reg.md",
+      "bytes": 790
+    },
+    {
+      "path": "data/synthetic_policies/AU/au-bas-file.md",
+      "bytes": 779
+    },
+    {
+      "path": "data/synthetic_policies/AU/au-gst-evid.md",
+      "bytes": 801
+    },
+    {
+      "path": "data/synthetic_policies/AU/au-work-exp.md",
+      "bytes": 813
+    },
+    {
+      "path": "data/synthetic_policies/CA/ca-cap-cost.md",
+      "bytes": 770
+    },
+    {
+      "path": "data/synthetic_policies/CA/ca-file-rev.md",
+      "bytes": 784
+    },
+    {
+      "path": "data/synthetic_policies/CA/ca-gsthst.md",
+      "bytes": 826
+    },
+    {
+      "path": "data/synthetic_policies/CA/ca-travel.md",
+      "bytes": 815
+    },
+    {
+      "path": "data/synthetic_policies/IN/in-asset-dep.md",
+      "bytes": 789
+    },
+    {
+      "path": "data/synthetic_policies/IN/in-biz-exp.md",
+      "bytes": 835
+    },
+    {
+      "path": "data/synthetic_policies/IN/in-gst-itc.md",
+      "bytes": 835
+    },
+    {
+      "path": "data/synthetic_policies/IN/in-return-qa.md",
+      "bytes": 796
+    },
+    {
+      "path": "data/synthetic_policies/UK/uk-biz-cost.md",
+      "bytes": 836
+    },
+    {
+      "path": "data/synthetic_policies/UK/uk-cap-asset.md",
+      "bytes": 825
+    },
+    {
+      "path": "data/synthetic_policies/UK/uk-return-ctrl.md",
+      "bytes": 788
+    },
+    {
+      "path": "data/synthetic_policies/UK/uk-vat-rec.md",
+      "bytes": 788
+    },
+    {
+      "path": "data/synthetic_policies/US/us-asset-rec.md",
+      "bytes": 825
+    },
+    {
+      "path": "data/synthetic_policies/US/us-biz-travel.md",
+      "bytes": 909
+    },
+    {
+      "path": "data/synthetic_policies/US/us-ind-file.md",
+      "bytes": 841
+    },
+    {
+      "path": "data/synthetic_policies/US/us-pen-rev.md",
+      "bytes": 821
+    }
+  ]
+}
